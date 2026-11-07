@@ -1,0 +1,87 @@
+# Build and distribution
+build/
+build-*/
+dist/
+out/
+cmake-build-*/
+
+# CMake / Ninja
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CMakeUserPresets.json
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+_deps/
+
+# Binaries and libraries
+Rebro
+Rebro.exe
+rebro3d
+rebro3d.exe
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.pch
+*.gch
+*.gcda
+*.gcno
+
+# Project files (keep only the app, not user scenes)
+*.r3dp
+backup/
+
+# Model exports/imports in the working directory
+*.obj
+*.fbx
+*.gltf
+*.glb
+*.stl
+*.dae
+*.3ds
+
+# IDE and OS junk
+.vs/
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.ipch
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp
+*.log
+logs/
+*.tmp
+*~
+
+# Editor backups
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# Settings generated at runtime
+settings.ini
