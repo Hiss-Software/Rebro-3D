@@ -35,10 +35,6 @@
 - **Multi-language UI:** Russian, English, Chinese, Arabic (RTL), Spanish, German, French, Japanese, Korean, Portuguese.
 - **Themes:** Light and dark modes with smooth animated transitions.
 
-## 🖥️ Screenshots
-
-*(Add your screenshots here — a viewport with a model, the outliner, and the properties panel work best.)*
-
 ## 🛠️ Building from Source
 
 ### Requirements
